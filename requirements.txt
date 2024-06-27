@@ -1,0 +1,10 @@
+faiss-cpu # for vetor embedding
+langchain-groq
+groq
+streamlit
+PYPDF2 # read docs from PDF
+langchain
+langchain_google_genai
+langchain_community
+python-dotenv
+pypdf
